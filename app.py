@@ -19,7 +19,7 @@ teams = ['Australia',
  'Sri Lanka']
 
 cities = ['Colombo',
- 'Mirpur',
+ 'Dhaka',
  'Johannesburg',
  'Dubai',
  'Auckland',
